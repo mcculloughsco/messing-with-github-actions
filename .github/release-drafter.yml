@@ -27,6 +27,10 @@ template: |
 
   ## Urgent Upgrade notes
 
+  <!--
+  Insert any deprications/urgent notes that should be pushed to the top.
+  -->
+
   ## Changes by Type
 
   $CHANGES
