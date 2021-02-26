@@ -23,8 +23,10 @@ version-resolver:
       - 'patch'
   default: patch
 template: |
+  ## Changelog since $PREVIOUS_TAG
+
+  ## Urgent Upgrade notes
+
   ## Changes by Type
 
   $CHANGES
-category-template: |
-  $TITLE
